@@ -14,9 +14,10 @@ public class Item {
 	private Integer number;
 	///88888
 	////999999
-	//00000
-<<<<<<< HEAD
+
+	//22222
+
 }
-=======
-}
->>>>>>> branch 'master' of https://github.com/wangliao888/sp_repo.git
+
+
+
